@@ -1,0 +1,13 @@
+Docker
+https://docs.google.com/presentation/d/11OI_OekeNqOcxqRFpN6uCFS7TZ0NcMz5jLl8ZEdehfk/edit?usp=sharing
+
+Chef
+https://docs.google.com/presentation/d/10MR6wJmfr6s7RZV5pGkvVcELf6ynTCWbcqtdpuOwWTo/edit?usp=sharing
+
+iSCSI
+https://docs.google.com/presentation/d/1uK_Mo2hFNgNCTqumesaGcaqtVpS8Ks8xIcVs5p8iMeQ/edit?usp=sharing
+
+Fluentd
+https://docs.google.com/presentation/d/1apsYYpcJ9mpHv4VbRi8w5DZTZC6CUVCD-Br5-yFLwv8/edit?usp=sharing
+https://docs.google.com/presentation/d/1otHestQgiXxUVni98FARPqTF4kxqtkA2aVGHrcYf0w8/edit?usp=sharing
+https://docs.google.com/presentation/d/1e7_VDOi5mwjfhKVXhWvKvzvCA_ctM36JwTxqkeMjMB4/edit?usp=sharing

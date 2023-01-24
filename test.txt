@@ -11,3 +11,6 @@ Fluentd
 https://docs.google.com/presentation/d/1apsYYpcJ9mpHv4VbRi8w5DZTZC6CUVCD-Br5-yFLwv8/edit?usp=sharing
 https://docs.google.com/presentation/d/1otHestQgiXxUVni98FARPqTF4kxqtkA2aVGHrcYf0w8/edit?usp=sharing
 https://docs.google.com/presentation/d/1e7_VDOi5mwjfhKVXhWvKvzvCA_ctM36JwTxqkeMjMB4/edit?usp=sharing
+
+KVM
+https://docs.google.com/presentation/d/1RWyl_Ajwdj-SESjiGNjyCRuYchZSaEM1bJrjlhpfIbw/edit?usp=sharing
